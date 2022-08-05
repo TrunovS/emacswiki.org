@@ -1,4 +1,4 @@
-;;; wsl-path.el -- Teach EMACS about windows subsystem for linux styles paths
+;;; wsl-path.el --- Teach EMACS about windows subsystem for linux styles paths
 
 ;; Copyright (C) 2009 Victor Ren
 ;; Copyright (C) 2019-08-29 Zach Kost-Smith
